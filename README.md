@@ -26,7 +26,7 @@ const divjotSingh = {
     backend: ["Node.js", "Express"],
   },
   launchedProjects: ["Project-todo-list", "Personal-portfolio"],
-  certifications: [],
+  certifications: ["Oracle Cloud Infrastructure Certified AI Foundations Associate","AIML certificate from pregrad"],
   status: "Learning, building, and sharpening DSA skills in C++",
   openTo: ["Full-time roles", "Collaborations", "Open Source"],
 };
