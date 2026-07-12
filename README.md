@@ -1,126 +1,149 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=220&section=header&text=Divjot%20Singh&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=C7D2FE" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+with+React+%26+Node.js;Crafting+UIs+with+HTML%2C+CSS+%26+JS;Solving+DSA+in+C%2B%2B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;Open+to+Internship+Opportunities;Solving+DSA+in+C%2B%2B" />
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-4F46E5?style=for-the-badge&logo=briefcase&logoColor=FFFFFF" />
-
-<img src="https://komarev.com/ghpvc/?username=ohyuhguerhrgoekgee&color=4f46e5&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/ohyuhguerhrgoekgee?label=FOLLOWERS&style=for-the-badge&color=4f46e5" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-4F46E5?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=divjot-tech&style=for-the-badge&color=4f46e5&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/divjot-tech?style=for-the-badge&color=4f46e5"/>
 
 </div>
 
-<br/>
+# 👋 About Me
 
-## 🧑‍💻 Who I Am
-
-```typescript
+```ts
 const divjotSingh = {
-  title: "Full Stack Developer",
-  stack: {
-    languages: ["JavaScript", "C++"],
-    frontend: ["HTML", "CSS", "React"],
-    backend: ["Node.js", "Express"],
-  },
-  launchedProjects: ["Project-todo-list", "Personal-portfolio"],
-  certifications: ["Oracle Cloud Infrastructure Certified AI Foundations Associate","AIML certificate from pregrad"],
-  status: "Learning, building, and sharpening DSA skills in C++",
-  openTo: ["Full-time roles", "Collaborations", "Open Source"],
-};
+  role: "Full Stack Developer",
+  languages: ["JavaScript","C++"],
+  frontend: ["HTML","CSS","React"],
+  backend: ["Node.js","Express.js"],
+  libraries: ["Papa Parse","React Dropzone"],
+  tools: ["Git","GitHub","Vercel"],
+  projects: [
+    "Project-todo-list",
+    "Personal-portfolio",
+    "AI CSV Importer"
+  ],
+  currentlyLearning: ["DSA","Backend Development","System Design"],
+  openTo: ["Internships","Open Source","Collaborations"]
+}
 ```
 
-<br/>
+# 🚀 Featured Projects
 
-## 🚀 Featured Projects
+## 📝 Project Todo List
 
-### 📝 Project-todo-list
-A simple and responsive to-do list app to manage daily tasks efficiently.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=divjot-tech&repo=Project-todo-list&theme=nord&border_color=4f46e5"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ohyuhguerhrgoekgee&repo=Project-todo-list&theme=nord&border_color=4f46e5&title_color=4f46e5" />
+**Tech:** HTML • CSS • JavaScript
 
-| Layer      | Technology            |
-|------------|------------------------|
-| Frontend   | HTML, CSS, JavaScript |
+🔗 Live: https://divjot-tech.github.io/Project-todo-list/
 
-🔗 [Live](https://ohyuhguerhrgoekgee.github.io/Project-todo-list/) &nbsp;|&nbsp; 💻 [Code](https://github.com/ohyuhguerhrgoekgee/Project-todo-list)
+💻 Code: https://github.com/divjot-tech/Project-todo-list
 
-<br/>
+---
 
-### 🌐 Personal-portfolio
-My personal portfolio showcasing my projects, skills, and journey as a developer.
+## 🌐 Personal Portfolio
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ohyuhguerhrgoekgee&repo=Personal-portfolio&theme=nord&border_color=4f46e5&title_color=4f46e5" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=divjot-tech&repo=Personal-portfolio&theme=nord&border_color=4f46e5"/>
 
-| Layer      | Technology            |
-|------------|------------------------|
-| Frontend   | HTML, CSS, JavaScript |
+**Tech:** HTML • CSS • JavaScript
 
-🔗 [Live](https://ohyuhguerhrgoekgee.github.io/Personal-portfolio/) &nbsp;|&nbsp; 💻 [Code](https://github.com/ohyuhguerhrgoekgee/Personal-portfolio)
+🔗 Live: https://divjot-tech.github.io/Personal-portfolio/
 
-<br/>
+💻 Code: https://github.com/divjot-tech/Personal-portfolio
 
-## 🛠️ Tech Stack
+---
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,cpp" />
+## 🤖 AI CSV Importer
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=divjot-tech&repo=groweasy-ai-csv-importer&theme=nord&border_color=4f46e5"/>
 
-**Backend / Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+A modern CSV Importer supporting drag-and-drop uploads, CSV parsing, validation and responsive UI.
 
-<br/>
+| Layer | Technology |
+|---|---|
+| Frontend | React, HTML, CSS, JavaScript |
+| Backend | Node.js, Express.js |
+| Libraries | Papa Parse, React Dropzone |
+| Deployment | Vercel |
 
-## 📊 GitHub Stats
+🔗 Live: https://groweasy-ai-csv-importer-nu.vercel.app/
+
+💻 Code: https://github.com/divjot-tech/groweasy-ai-csv-importer
+
+# 🛠 Tech Stack
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,cpp"/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ohyuhguerhrgoekgee&show_icons=true&theme=nord&border_color=4f46e5&title_color=4f46e5&icon_color=4f46e5&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohyuhguerhrgoekgee&layout=compact&theme=nord&border_color=4f46e5&title_color=4f46e5&text_color=c9d1d9" width="48%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=divjot-tech&show_icons=true&theme=nord&border_color=4f46e5"/>
 
-<img src="https://streak-stats.demolab.com?user=ohyuhguerhrgoekgee&theme=nord&border=4f46e5&ring=4f46e5&fire=4f46e5" width="70%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divjot-tech&layout=compact&theme=nord&border_color=4f46e5"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=divjot-tech&theme=nord"/>
 
 </div>
 
-<br/>
-
-## 🏆 Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ohyuhguerhrgoekgee&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=divjot-tech&theme=nord&no-frame=true&no-bg=true&row=1&column=7"/>
+
 </div>
 
-<br/>
-
-## 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ohyuhguerhrgoekgee&theme=react-dark&color=4f46e5&line=4f46e5&point=ffffff&area=true&hide_border=true" width="90%" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=divjot-tech&theme=react-dark&color=4f46e5&line=4f46e5&point=ffffff&area=true&hide_border=true"/>
+
 </div>
 
-<br/>
+# 🎯 2026 Goals
 
-## 🔗 Connect With Me
+- Build production-ready Full Stack projects
+- Strengthen DSA in C++
+- Learn System Design
+- Contribute to Open Source
+- Secure a Software Development Internship
+
+# 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/divjot-singh-034292358" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+<a href="https://www.linkedin.com/in/divjot-singh-034292358">
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:2006.divjot.singh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Gmail-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://ohyuhguerhrgoekgee.github.io/Personal-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
+
+<a href="https://divjot-tech.github.io/Personal-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer"/>
