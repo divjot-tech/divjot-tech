@@ -53,7 +53,7 @@ const divjotSingh = {
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 Live: https://divjot-tech.github.io/Personal-portfolio/
+🔗 Live: https://personal-portfolio-xi-one-47.vercel.app/
 
 💻 Code: https://github.com/divjot-tech/Personal-portfolio
 
