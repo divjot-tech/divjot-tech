@@ -41,8 +41,8 @@ const divjotSingh = {
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-FFFFFF?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-FFFFFF?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-1E3A8A?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-1E3A8A?style=for-the-badge&logo=cursor&logoColor=white"/>
 
 </div>
 
@@ -117,7 +117,7 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 <br>
 
-## `06` GitHub Stats
+## `06` Progress & Consistency
 
 <div align="center">
 
@@ -126,33 +126,31 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=divjot-tech&background=60A5FA&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=475569&border=2563EB"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=divjot-tech&background=60A5FA&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=E0F2FE&border=2563EB"/>
+
+<br><br>
+
+<img width="32%" src="https://raw.githubusercontent.com/divjot-tech/divjot-tech/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+<img width="32%" src="https://raw.githubusercontent.com/divjot-tech/divjot-tech/main/profile-summary-card-output/github_dark/3-stats.svg"/>
+<img width="32%" src="https://raw.githubusercontent.com/divjot-tech/divjot-tech/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
 
 </div>
 
+> ⚠️ The last row (profile grade, stats, productive time) needs the extra GitHub Action below — see the setup steps I gave you.
+
 <br>
 
-## `07` GitHub Trophies
+## `07` Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=divjot-tech&theme=flat&no-frame=true&row=1&column=7"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=divjot-tech&bg_color=000000&color=60A5FA&line=60A5FA&point=FFFFFF&area=true&border_color=000000"/>
 
 </div>
 
 <br>
 
-## `08` Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=divjot-tech&bg_color=60A5FA&color=1E3A8A&line=1E3A8A&point=FFFFFF&area=true&border_color=2563EB"/>
-
-</div>
-
-<br>
-
-## `09` Contribution Snake 🐍
+## `08` Contribution Snake 🐍
 
 <div align="center">
 
@@ -160,11 +158,11 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 </div>
 
-> ⚠️ This animates once you add the included GitHub Action to this repo — same setup steps as before.
+> ⚠️ This animates once you add the snake GitHub Action to this repo — see the setup steps I gave you earlier.
 
 <br>
 
-## `10` 2026 Goals
+## `09` 2026 Goals
 
 - [ ] Build production-ready Full Stack projects
 - [ ] Strengthen DSA in C++
@@ -174,7 +172,7 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 <br>
 
-## `11` Connect With Me
+## `10` Connect With Me
 
 <div align="center">
 
