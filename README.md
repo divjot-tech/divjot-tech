@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=EFF6FF&height=220&section=header&text=DIVJOT%20SINGH&fontSize=48&fontColor=111827&fontAlignY=45&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descAlignY=65&descSize=18&descColor=2563EB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DBEAFE&height=220&section=header&text=DIVJOT%20SINGH&fontSize=48&fontColor=0F172A&fontAlignY=45&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descAlignY=65&descSize=18&descColor=1D4ED8" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=750&height=50&lines=React+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;Solving+DSA+in+C%2B%2B;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1D4ED8&center=true&vCenter=true&width=750&height=50&lines=React+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;Solving+DSA+in+C%2B%2B;Open+to+Internship+Opportunities" />
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2563EB?style=for-the-badge&logo=briefcase&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=divjot-tech&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/divjot-tech?style=for-the-badge&label=FOLLOWERS&color=2563EB&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-1D4ED8?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=divjot-tech&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/divjot-tech?style=for-the-badge&label=FOLLOWERS&color=1D4ED8&logo=github&logoColor=white"/>
 
 </div>
 
@@ -41,8 +41,8 @@ const divjotSingh = {
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-0F172A?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-0F172A?style=for-the-badge&logo=cursor&logoColor=white"/>
 
 </div>
 
@@ -121,12 +121,12 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=divjot-tech&show_icons=true&bg_color=EFF6FF&title_color=2563EB&icon_color=2563EB&text_color=111827&border_color=BFDBFE"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divjot-tech&layout=compact&bg_color=EFF6FF&title_color=2563EB&text_color=111827&border_color=BFDBFE"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=divjot-tech&show_icons=true&bg_color=DBEAFE&title_color=1D4ED8&icon_color=1D4ED8&text_color=0F172A&border_color=93C5FD"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divjot-tech&layout=compact&bg_color=DBEAFE&title_color=1D4ED8&text_color=0F172A&border_color=93C5FD"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=divjot-tech&background=EFF6FF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=111827&currStreakNum=111827&sideNums=111827&dates=475569&border=BFDBFE"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=divjot-tech&background=DBEAFE&ring=1D4ED8&fire=1D4ED8&currStreakLabel=1D4ED8&sideLabels=0F172A&currStreakNum=0F172A&sideNums=0F172A&dates=475569&border=93C5FD"/>
 
 </div>
 
@@ -146,7 +146,7 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=divjot-tech&bg_color=EFF6FF&color=2563EB&line=2563EB&point=111827&area=true&border_color=BFDBFE"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=divjot-tech&bg_color=DBEAFE&color=1D4ED8&line=1D4ED8&point=0F172A&area=true&border_color=93C5FD"/>
 
 </div>
 
@@ -179,15 +179,15 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 <div align="center">
 
 <a href="https://www.linkedin.com/in/divjot-singh-034292358">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:2006.divjot.singh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://divjot-tech.github.io/Personal-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=EFF6FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DBEAFE&height=100&section=footer"/>
