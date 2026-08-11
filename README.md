@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=DIVJOT%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descAlignY=65&descSize=18&descColor=2DD4BF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F7FA&height=220&section=header&text=DIVJOT%20SINGH&fontSize=48&fontColor=111111&fontAlignY=45&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descAlignY=65&descSize=18&descColor=3B82F6" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&background=0D1117&center=true&vCenter=true&width=750&height=50&lines=React+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;Solving+DSA+in+C%2B%2B;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&height=50&lines=React+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;Solving+DSA+in+C%2B%2B;Open+to+Internship+Opportunities" />
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-0D1117?style=for-the-badge&logo=briefcase&logoColor=2DD4BF&labelColor=0D1117&color=161B22"/>
-<img src="https://komarev.com/ghpvc/?username=divjot-tech&style=for-the-badge&color=161b22&label=PROFILE+VIEWS&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/followers/divjot-tech?style=for-the-badge&label=FOLLOWERS&labelColor=0D1117&color=161B22&logo=github&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-3B82F6?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=divjot-tech&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/divjot-tech?style=for-the-badge&label=FOLLOWERS&color=3B82F6&logo=github&logoColor=white"/>
 
 </div>
 
@@ -38,11 +38,11 @@ const divjotSingh = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=2DD4BF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=2DD4BF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-111111?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white"/>
 
 </div>
 
@@ -105,13 +105,13 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,cpp&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,cpp&theme=light"/>
 <br><br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react&theme=light"/>
 <br><br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express&theme=light"/>
 <br><br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,vercel&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,vercel&theme=light"/>
 
 </div>
 
@@ -121,12 +121,12 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=divjot-tech&show_icons=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=FFFFFF&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divjot-tech&layout=compact&bg_color=0D1117&title_color=2DD4BF&text_color=FFFFFF&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=divjot-tech&show_icons=true&bg_color=FFFFFF&title_color=3B82F6&icon_color=3B82F6&text_color=24292F&border_color=E5E7EB"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divjot-tech&layout=compact&bg_color=FFFFFF&title_color=3B82F6&text_color=24292F&border_color=E5E7EB"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=divjot-tech&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=divjot-tech&background=FFFFFF&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=6B7280&border=E5E7EB"/>
 
 </div>
 
@@ -136,7 +136,7 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=divjot-tech&theme=dracula&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=divjot-tech&theme=flat&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -146,7 +146,7 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=divjot-tech&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=FFFFFF&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=divjot-tech&bg_color=FFFFFF&color=3B82F6&line=3B82F6&point=24292F&area=true&border_color=E5E7EB"/>
 
 </div>
 
@@ -156,11 +156,11 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/divjot-tech/divjot-tech/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/divjot-tech/divjot-tech/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
-> ⚠️ This animates once you add the included GitHub Action to this repo — see the note below the file list.
+> ⚠️ This animates once you add the included GitHub Action to this repo — same setup steps as before, just note the filename below no longer says "-dark".
 
 <br>
 
@@ -179,15 +179,15 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 <div align="center">
 
 <a href="https://www.linkedin.com/in/divjot-singh-034292358">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:2006.divjot.singh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Gmail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://divjot-tech.github.io/Personal-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F7FA&height=100&section=footer"/>
