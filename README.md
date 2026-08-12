@@ -136,8 +136,6 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 </div>
 
-> ⚠️ The last row (profile grade, stats, productive time) needs the extra GitHub Action below — see the setup steps I gave you.
-
 <br>
 
 ## `07` Contribution Graph
@@ -158,7 +156,6 @@ A modern CSV importer with drag-and-drop uploads, parsing, validation, and a res
 
 </div>
 
-> ⚠️ This animates once you add the snake GitHub Action to this repo — see the setup steps I gave you earlier.
 
 <br>
 
